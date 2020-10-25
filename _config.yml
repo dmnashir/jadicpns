@@ -100,8 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: cactus
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-
+  type: git
+  repo: https://github.com/dmnashir/jadicpns
+  branch: gh-pages

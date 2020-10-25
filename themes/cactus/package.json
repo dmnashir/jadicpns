@@ -45,3 +45,7 @@
     "vazir-font": "*"
   }
 }
+{
+  "scripts": {
+    "build": "hexo generate"
+  },

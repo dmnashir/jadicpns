@@ -1,0 +1,4 @@
+---
+title: Cari
+type: search
+---

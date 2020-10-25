@@ -1,0 +1,65 @@
+nav:
+  home: Beranda
+  about: Tentang Kami
+  articles: arsip
+  tag: Tag
+  category: Kategori
+  projects: Program
+  search: Cari
+
+footer:
+  copyright: Hak Cipta
+
+index:
+  find_me_on: Hubungi Kami
+  enum_comma: ','
+  enum_and: dan
+  articles: Tulisan
+  projects: Program
+  topics: Topik
+  most_recent: Terbaru
+
+post:
+  desktop:
+    previous: Sebelumnya
+    next: Berikutnya
+    back_to_top: Naik
+    share: Bagikan
+  mobile:
+    menu: Menu
+    toc: Daftar Isi
+    back_to_top: Naik
+    share: Bagikan
+
+search:
+  search: Cari...
+  no_results: Tidak ada hasil...
+
+tag_cloud:
+  zero: Tidak adaa tag
+
+pagination:
+  page: Halaman ke %d dari %d
+
+counter:
+  tag_cloud:
+    zero: Tidak ada tag
+    one: ""
+    other: ""
+
+  categories:
+    zero: Tidak ada kategori
+    one: ""
+    other: ""
+
+  archive_posts:
+    zero: Tidak ada tulisan.
+    one: ""
+    other: ""
+
+comments:
+  no_js: Mohon aktifkan JavaScript untuk melihat komentar.
+
+tooltip:
+  copy_tip: Salin.
+  copied: Tersalin.

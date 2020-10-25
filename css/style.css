@@ -436,8 +436,8 @@ body td {
 }
 @font-face {
   font-style: normal;
-  font-family: "Meslo LG";
-  src: local("Meslo LG S"), url("../lib/meslo-LG/MesloLGS-Regular.ttf") format("truetype");
+  font-family: "font-family: 'Roboto', sans-serif;";
+  src: local("Roboto"), url("https://fonts.googleapis.com/css2?family=Roboto&display=swap") format("truetype");
 }
 *,
 *:before,
